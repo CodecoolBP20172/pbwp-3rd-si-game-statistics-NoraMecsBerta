@@ -36,7 +36,6 @@ def print_get_date_ordered(file_name):
 
 
 
-
 print_get_most_played('game_stat.txt')
 print_sum_sold('game_stat.txt')
 print_get_selling_avg('game_stat.txt')
